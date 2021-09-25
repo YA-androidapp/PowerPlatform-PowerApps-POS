@@ -1,0 +1,12 @@
+ya_key,ya_language,ya_stringid,utcconversiontimezonecode,ya_value,importsequencenumber,statuscode,timezoneruleversionnumber,versionnumber,statecode,owningbusinessunit
+MainMenuDisplay,,,,Display,,,,,,
+MainMenuDisplay,ja,,,ディスプレイ,,,,,,
+MainMenuAbout,,,,About {},,,,,,
+MainMenuLog,ja,,,ログ,,,,,,
+NewVerwionExists,,,,A newer version was published. Please restart this app.,,,,,,
+MainMenuLog,,,,Log,,,,,,
+MainMenuAbout,ja,,,{}について,,,,,,
+MainMenuSetting,,,,Setting,,,,,,
+MainMenuSetting,ja,,,設定,,,,,,
+NewVerwionExists,ja,,,新しいバージョンが公開されています。アプリを再起動してください。,,,,,,
+IsMaintenanceMode,ja,,,現在メンテナンス中です。,,,,,,
