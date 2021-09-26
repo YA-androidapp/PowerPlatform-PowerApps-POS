@@ -1,2 +1,11 @@
 # PowerPlatform-PowerApps-POS
- Power Appsで実装したPOSレジ
+
+Power Apps で実装した POS レジ
+
+---
+
+## Custom controls
+
+- PCF Gallery
+  - [QR Code](https://pcf.gallery/qr-code/)
+  - ...
