@@ -1,4 +1,4 @@
-ya_amount,ya_id,ya_name,ya_productid,ya_taxrate,ya_unitprice,ya_unitprice_base,utcconversiontimezonecode,importsequencenumber,statuscode,timezoneruleversionnumber,versionnumber,exchangerate,statecode,owningbusinessunit,transactioncurrencyid
-20,Grape,ぶどう,7eac092c-2b2f-ec11-b6e6-000d3a4139ae,8,2000,2000,,,アクティブ,,1248610,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
-50,Orange,オレンジ,2e32671e-2b2f-ec11-b6e6-000d3a4139ae,8,80,80,,,アクティブ,,1248609,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
-100,Apple,りんご,72e773fd-2a2f-ec11-b6e6-000d3a4139ae,8,160,160,,,アクティブ,,1248607,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
+ya_amount,ya_id,ya_jancode,ya_name,ya_productid,ya_taxrate,ya_unitprice,ya_unitprice_base,utcconversiontimezonecode,importsequencenumber,statuscode,timezoneruleversionnumber,versionnumber,exchangerate,statecode,owningbusinessunit,transactioncurrencyid
+50,Orange,4912345000033,オレンジ,2e32671e-2b2f-ec11-b6e6-000d3a4139ae,8,80,80,,,アクティブ,,1250317,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
+20,Grape,4912345000026,ぶどう,7eac092c-2b2f-ec11-b6e6-000d3a4139ae,8,2000,2000,,,アクティブ,,1250315,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
+100,Apple,4912345000019,りんご,72e773fd-2a2f-ec11-b6e6-000d3a4139ae,8,160,160,,,アクティブ,,1250313,1,アクティブ,708c123e-7518-ec11-b6e6-00224862167d,0e3c9fa2-9918-ec11-b6e6-00224862167d
