@@ -4,8 +4,6 @@ Power Apps で実装した POS レジ
 
 ---
 
-## Custom controls
+---
 
-- PCF Gallery
-  - [QR Code](https://pcf.gallery/qr-code/)
-  - ...
+Copyright (c) 2021 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
